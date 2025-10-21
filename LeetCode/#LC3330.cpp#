@@ -8,5 +8,6 @@ public:
                 total++;
             }
         }
+        return total +1;
     }
 };
