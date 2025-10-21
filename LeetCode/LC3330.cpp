@@ -8,10 +8,6 @@ public:
                 total++;
             }
         }
-<<<<<<< HEAD:LeetCode/LC3330.cpp
         return total +1;
-=======
-        return total + 1;
->>>>>>> 67c90cb63d8458cb89f0d01f7b4bf60e0679c0bd:LC3330.cpp
     }
-};git 
+};
